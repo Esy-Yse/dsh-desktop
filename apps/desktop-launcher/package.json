@@ -1,0 +1,14 @@
+{
+  "name": "deepseek-harness-desktop-maintenance",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Build tooling for the portable DeepSeek Harness Electron launcher",
+  "scripts": {
+    "extract": "node scripts/extract-launcher.cjs",
+    "test": "node --test test/*.test.cjs",
+    "pack": "node scripts/pack-launcher.cjs"
+  },
+  "devDependencies": {
+    "@electron/asar": "^3.2.12"
+  }
+}

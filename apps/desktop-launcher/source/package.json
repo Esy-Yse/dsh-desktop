@@ -1,0 +1,10 @@
+{
+  "name": "dsh-desktop",
+  "productName": "DeepSeek Harness",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness 桌面客户端：一键启动 dsh web 服务并以原生窗口打开",
+  "author": "DeepSeek Harness",
+  "license": "MIT",
+  "private": true,
+  "main": "main.js"
+}
