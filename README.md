@@ -1,7 +1,8 @@
 # DeepSeek Harness Windows Launcher
 
-这是一个按开源仓库方式整理的 Windows 发行包，包含上游 DeepSeek Harness 源码、
+这是一个按开源仓库方式整理的 Windows 发行包，包含上游 DeepSeek Harness 源码、特点是包含无边框可运行的DSH，内置鲸歌作为默认皮肤
 桌面启动器源码与测试，以及可直接运行的 Windows 便携版。
+<img width="1437" height="886" alt="QQ_1787049047272" src="https://github.com/user-attachments/assets/cb4838f9-4edf-48e4-a8de-92bd05df977e" />
 
 ## 目录
 
@@ -9,6 +10,7 @@
 - `upstream/deepseek-harness`：DeepSeek Harness 上游源码、文档和锁文件。
 - `dist/windows-portable`：可直接运行的 Windows 便携版；启动 `DeepSeek Harness.exe`。
 - `docs`：运行说明、上游项目说明与贡献指南。
+
 
 ## 从源码恢复依赖
 
