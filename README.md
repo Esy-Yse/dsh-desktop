@@ -1,4 +1,3 @@
-<img width="1435" height="889" alt="QQ_1787049114165" src="https://github.com/user-attachments/assets/4a635091-d785-4f41-83e6-470d290facf6" /># DeepSeek Harness Windows Launcher
 
 这是一个按开源仓库方式整理的 Windows 发行包，包含上游 DeepSeek Harness 源码、特点是包含无边框可运行的DSH，内置鲸歌作为默认皮肤
 桌面启动器源码与测试，以及可直接运行的 Windows 便携版。
