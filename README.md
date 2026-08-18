@@ -2,7 +2,8 @@
 
 这是一个按开源仓库方式整理的 Windows 发行包，包含上游 DeepSeek Harness 源码、特点是包含无边框可运行的DSH，内置鲸歌作为默认皮肤
 桌面启动器源码与测试，以及可直接运行的 Windows 便携版。
-<img width="1437" height="886" alt="QQ_1787049047272" src="https://github.com/user-attachments/assets/cb4838f9-4edf-48e4-a8de-92bd05df977e" />
+![Uploading QQ_1787049114165.png…]()
+
 
 ## 目录
 
